@@ -1,5 +1,5 @@
 # logistic-regression-model
-Logistic regression model on arbitrary data set
+Elementary logistic regression model on arbitrary data set
 
 -Using EDA to identify relevant variables for the model
 
